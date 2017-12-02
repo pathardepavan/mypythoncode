@@ -1,0 +1,26 @@
+Title: Write a image downloader Command Line Application
+
+Requirement:
+1. Listing of files specific to user.
+Input
+username
+Output:
+Filename Size Permission
+Validation:
+If there is no folder with username, "There are no files downloaded"
+If there is any error, exceptions need to be handled
+All the steps needs to be logged using logging module/package.
+
+Input:
+2. Download the files taking username and filepath which contains
+list of url's
+Input:
+username
+images.txt --> Each line one image url.
+all the images needs to be stored in a folder called username
+Validation:
+URL is right
+If error while downloading please inform user
+log all the messages
+
+Downloading --> requests <pip>

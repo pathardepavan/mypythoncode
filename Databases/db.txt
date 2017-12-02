@@ -1,0 +1,19 @@
+Files --> Text --> Strings..
+Data is grouped together and stored on hard disk.
+RDBMS --> 1960
+
+
+SQL Based Database --> Structured
+MySQL --> MariaDB
+Oracle -->
+Postgresql --> Open source
+
+TFA
+Students
+name varchar
+email
+phone
+
+
+
+

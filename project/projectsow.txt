@@ -1,0 +1,19 @@
+--> IOT and data analysis
+-->
+
+
+
+Usecase: Smart Store Solution (Gender, Age, Count)
+Solution:
+1. Scale Up
+2. Ability to Communicate and read the image.
+3. Ability to maintain and work with multiple communications.
+4. Left Brain --> Store in DB
+5.
+
+
+--> Python Developer
+
+
+Usecase
+
